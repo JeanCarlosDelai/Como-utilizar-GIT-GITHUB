@@ -1,0 +1,4 @@
+----------------- Juntando branchs versão 1 -----------------------------------
+1 - Trocar para a versão na qual precisa receber as modificações da outra brunch
+2 - comando git checkout master
+3 - git merge staging (Junta as modificações da staging para a banch principal)
