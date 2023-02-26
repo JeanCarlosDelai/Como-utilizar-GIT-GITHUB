@@ -1,0 +1,27 @@
+------------------1 Passo - Versão 2 - commit 1 ---------------------------------------
+1 - logar na maquina com o GITHUB Desktop, Link dowload https://desktop.github.com/
+2 - instalar o Git, Link dowload https://git-scm.com/downloads
+3 - Criar repositório no GITHUB
+4 - Criar pasta no computador
+5 - Dentro da basta, View(exibir) selecionar mostrar itens ocultos
+6 - Dentro da pasta, botão direito do mouse, GIT bash Here
+7 - Esse comando vai abri o Terminal do Git
+8 - Comando Git init (Inicializa o repositório)
+9 - Digitar comando git status (Informar algumas informações sobre a brunch
+On branch master (Mostra em qual branch está no momento)
+No commits yet (Mostra que ainda não temos nenhuma versão do código ou commit nesta branch)
+Untracked files (em bermelho, arquivo que ainda não foio adicionado a versão)
+10 - Adicionar arquivo a versão (
+git add "Primeiros-Passos.txt" adiciona somente este arquivo
+git add . adicionma todos os arquivos que ainda não foram adicionmados a versão)
+11 - digite git status (Emn verde, vai mostrar o arquivo que foi adicionado a versão)
+12 - Criar primeira versão
+13 - Digite git commit -m "commit inicial"
+14 - Se caso precisar configurar e-mail para incluir, tem o passo a passo no terminal
+15 - git config --global user.email "exemplo@gmail.com"
+16 - git config --global user.name "Nome que está no perfil do git"
+17 - Colocar link do projeto no GitHub
+18 - git remote add origin https://github.com/JeanCarlosDelai/Como-utilizar-GIT-GITHUB
+19 - Digite git push --set-upstream origin master (Define em qual brunch será enviado os arquivos)
+20 - Vai abrir uma caixa para logar com sua conta GitHub
+21 - git push
