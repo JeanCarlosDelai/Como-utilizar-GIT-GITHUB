@@ -1,0 +1,12 @@
+------------------1 Passo - Versão 1 ---------------------------------------
+1 - logar na maquina com o GITHUB Desktop, Link dowload https://desktop.github.com/
+2 - instalar o Git, Link dowload https://git-scm.com/downloads
+3 - Criar repositório no GITHUB
+4 - Criar pasta no computador
+5 - Dentro da basta, View(exibir) selecionar mostrar itens ocultos
+6 - Dentro da pasta, botão direito do mouse, GIT bash Here
+7 - Esse comando vai abri o Terminal do Git
+8 - Comando Git init (Inicializa o repositório)
+9 - Digitar comando git status (
+)
+10 - 
