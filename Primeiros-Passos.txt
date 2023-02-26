@@ -25,3 +25,8 @@ git add . adicionma todos os arquivos que ainda não foram adicionmados a versã
 19 - Digite git push --set-upstream origin master (Define em qual brunch será enviado os arquivos)
 20 - Vai abrir uma caixa para logar com sua conta GitHub
 21 - git push
+
+------------------2 Passo - Versão 3 - commit 2 ---------------------------------------
+
+1 - git reflog (mostra as versões do código)
+2 - git reset --hard código da versão  (volta para uma versão anterior)
