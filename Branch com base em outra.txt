@@ -1,0 +1,1 @@
+git checkout -b Branch nova (Cria uma nova branch com base em uma já feita)
