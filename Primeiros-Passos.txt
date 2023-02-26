@@ -1,4 +1,4 @@
-------------------1 Passo - Versão 2 - commit 1 ---------------------------------------
+------------------1 Passo - Versão 2 - commit 1 - brunch master ---------------------------------------
 1 - logar na maquina com o GITHUB Desktop, Link dowload https://desktop.github.com/
 2 - instalar o Git, Link dowload https://git-scm.com/downloads
 3 - Criar repositório no GITHUB
@@ -26,7 +26,17 @@ git add . adicionma todos os arquivos que ainda não foram adicionmados a versã
 20 - Vai abrir uma caixa para logar com sua conta GitHub
 21 - git push
 
-------------------2 Passo - Versão 3 - commit 2 ---------------------------------------
+------------------2 Passo - Versão 3 - commit 2 brunch master ---------------------------------------
 
 1 - git reflog (mostra as versões do código)
 2 - git reset --hard código da versão  (volta para uma versão anterior)
+
+------------------3 Passo - Versão 4 - commit 3 brunch staging --------------------------------------
+
+1 - git branch (Verifica quais branch está ativa e quantas tem)
+2 - brunch ativa mostra o simbolo do *
+3 - git branch staging (cria uma nova brunch para testes)
+4 - git checkout staging (muda de branch)
+5 - git add . adiciona as informaçoes alteradas a versão
+6 - git commit -m "Versão 3"
+7 - git push --set-upstream origin staging (adiciona staging ao GitHub)
